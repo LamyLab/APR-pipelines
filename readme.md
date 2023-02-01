@@ -37,7 +37,7 @@ To report bugs and code issues :beetle:: please open an [issue](https://github.c
 
 If you use this pipeline for your research, please consider citing the following:
 
-- ArXiv preprint of the paper
+-  [Efficient image analysis for large-scale next generation histopathology using pAPRica](https://www.biorxiv.org/content/10.1101/2023.01.27.525687v1): preprint of the paper on BioRxiv
 - [Adaptive particle representation of fluorescence microscopy images](https://www.nature.com/articles/s41467-018-07390-9): original implementation of APR published in Nature Communications.
 
 # How to build documentation
